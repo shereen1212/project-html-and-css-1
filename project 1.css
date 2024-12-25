@@ -1,0 +1,126 @@
+
+body {
+    font-family: "Edu AU VIC WA NT Pre", sans-serif;
+    font-style: italic;
+    background-color: #fff8f0;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+    background-color: rgb(36, 15, 0);
+    color: white;
+    padding: 20px 0;
+    margin: 0;
+}
+
+a {
+    padding: 25px;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+}
+
+p.inline {
+    background-color: maroon;
+    text-align: center;
+    margin: 0;
+}
+
+a:hover {
+    background-color: white;
+    color: black;
+}
+
+div.part1 {
+    background-color: rgb(228, 208, 211);
+    text-align: center;
+    width: 80%;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+img {
+    width: 100%;
+    max-width: 750px;
+    height: auto;
+    margin-top: 20px;
+}
+
+div.part2 {
+    width: 80%;
+    margin: 20px auto;
+}
+
+fieldset.tool {
+    border: none;
+    margin: 0;
+    padding: 0;
+}
+
+.tool ul, .tool ol {
+    list-style: none;
+    padding: 0;
+}
+
+.tool li {
+    padding: 5px 0;
+    font-size: 18px;
+}
+
+.tool h2 {
+    margin-bottom: 15px;
+}
+
+.tool .رقم:hover {
+    background-color: green;
+    padding: 2px 5px;
+    border-radius: 3px;
+}
+
+.tool .اسم:hover {
+    background-color: yellow;
+    padding: 2px 5px;
+    border-radius: 3px;
+}
+
+.black-section {
+    background-color: black;
+    width: 80%;
+    margin: 20px auto;
+    padding: 40px 0;
+    border-radius: 10px;
+}
+
+h2.black2 {
+    color: white;
+    text-align: center;
+}
+
+#black2 {
+    text-align: center;
+}
+
+#black3 {
+    padding: 15px;
+    background-color: rgb(181, 158, 117);
+    color: black;
+    border-radius: 5px;
+}
+
+img.small {
+    display: block;
+    margin: 40px auto;
+    width: 50%;
+    height: auto;
+}
+
+p.finish2 {
+    text-align: center;
+    color: white;
+    background-color: rgb(103, 48, 5);
+    padding: 10px 0;
+    margin: 0;
+}
